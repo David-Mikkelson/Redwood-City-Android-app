@@ -8,3 +8,5 @@ This app is starting out as a way to update the church schedule for Sabbath serv
 Right now it will let you schedule services and recall them on a calendar.
 
 
+I would like to add a way to listen to the sermons in a podcast and add a notification for events.
+
